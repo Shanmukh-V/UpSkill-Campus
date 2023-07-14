@@ -3,3 +3,6 @@ We are working with the government to transform various cities into a smart city
 
 Data set Link:
 https://drive.google.com/file/d/1y61cDyuO9Zrp1fSchWcAmCxk0B6SMx7X/view?usp=sharing
+
+Code Link(Google Colab):
+https://colab.research.google.com/drive/1hJ4Ji3DB0FBwaTDTzFSIewEwgMO3F__7?usp=sharing
